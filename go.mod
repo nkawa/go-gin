@@ -1,4 +1,4 @@
-module github.com/opentracing-contrib/go-gin
+module github.com/nkawa/go-gin
 
 go 1.14
 
